@@ -1,5 +1,3 @@
-
-@@ -0,0 +1,27 @@
 class Doctor
 
   attr_accessor :name
