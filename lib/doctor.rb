@@ -16,7 +16,6 @@ class Doctor
     Appointment.all.map do |appointment|
       appointment.patient
     end
-    
   end
 
   def self.all
